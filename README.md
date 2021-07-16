@@ -2,7 +2,7 @@
 
 Creating a project for allow for setup of new Repo's to format projects with consistency regardless of the operating system.
 
-Linting is the process of "checking" the files to ensure that there are not issues syntax wise before commit. Many different linting extensions exists and can be used depending on the reason. A quick overview on why it can assist can be foudn here: </br>
+Linting is the process of "checking" the files to ensure that there are not issues syntax wise before commit. Many different linting extensions exists and can be used depending on the reason. A quick overview on why it can assist can be found here: </br>
 https://www.freecodecamp.org/news/what-is-linting-and-how-can-it-save-you-time
 
 Please note, if you are going to use Linting processes, ensure they don't go overkill as they can be very time consuming.
@@ -15,7 +15,7 @@ Depending on what you are working on and why style of file, you can configure th
 
 ## Overview
 
-Training Delivery team currently have different markdown methods which between different operating systems is causing some difficulties. This is possibly being caused as different operating systems are using different software to edit the markdown files. This document is designed to assist the team so that regardless of Operating system, a markdown methodology and linting process is available to them.
+If your team currently has different markdown software which between different operating systems this may cause some difficulties. This is possibly being caused as different operating systems are using different software to edit the markdown files. This document is designed to assist the team so that regardless of Operating system, a markdown methodology and linting process is available to them.
 
 This repo will cover the following processes
 
@@ -45,7 +45,7 @@ While Visual Studio Code will work with the native operating system, it is recom
 
 ![win10-wsl](images/win10-wsl.png)
 
-Install WSL and upgrade to WSL2 using the following instructions. You will need to chose from the Microsoft Store which version of Linux to use. APNIC accepts the use of Debian, Ubuntu and CentOS. It is recommended to use Ubuntu 20.04LTS
+Install WSL and upgrade to WSL2 using the following instructions. You will need to chose from the Microsoft Store which version of Linux to use.
 
 * https://docs.microsoft.com/en-us/windows/wsl/install-win10
 
